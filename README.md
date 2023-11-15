@@ -1,27 +1,41 @@
-# React + TypeScript + Vite
+<h1 align="center"> Dtmoney </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+   An enhanced version of dtmoney, a financial manager app create with ReactJs
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">License</a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Expanding the ESLint configuration
+<br>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<p align="center">
+  <img alt="Dtmoney" src=".github/preview.png" width="100%">
+</p>
 
-- Configure the top-level `parserOptions` property like this:
+## 🚀 Tecnologies
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+This project was made with the following technologies:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- ReactJs & Typescript
+- Styled Components
+- Git e Github
+
+## 💻 Project
+
+Dtmoney is a financial manager app created with ReactJs on the Ignite Course by Rocketseat
+
+## 📝 License
+
+This project is under the MIT license
+
+---
+
+Made with ♥ by João Gabriel
