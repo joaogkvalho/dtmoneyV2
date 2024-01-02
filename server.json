@@ -55,6 +55,22 @@
       "type": "outcome",
       "createdAt": "2024-01-02T10:10:42.709Z",
       "id": 7
+    },
+    {
+      "description": "Mega Sena da Virada",
+      "price": 100000,
+      "category": "Sorteio",
+      "type": "income",
+      "createdAt": "2024-01-02T10:14:32.967Z",
+      "id": 8
+    },
+    {
+      "description": "Apartamento",
+      "price": 80000,
+      "category": "Moradia",
+      "type": "outcome",
+      "createdAt": "2024-01-02T10:14:59.097Z",
+      "id": 9
     }
   ]
 }
