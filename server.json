@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-12-16T12:52:14.298Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-12-16T12:30:14.298Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-12-16T12:50:14.298Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-01-02T09:47:51.949Z",
+      "id": 4
+    },
+    {
+      "description": "Coxinha",
+      "price": 8,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-01-02T09:58:38.042Z",
+      "id": 5
+    },
+    {
+      "description": "Uber do mês",
+      "price": 150,
+      "category": "Transporte",
+      "type": "outcome",
+      "createdAt": "2024-01-02T10:08:53.867Z",
+      "id": 6
+    },
+    {
+      "description": "Tesla V8",
+      "price": 20000,
+      "category": "Transporte",
+      "type": "outcome",
+      "createdAt": "2024-01-02T10:10:42.709Z",
+      "id": 7
+    }
+  ]
+}
