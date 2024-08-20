@@ -1,13 +1,9 @@
-<h1 align="center"> Dtmoney </h1>
+<h1 align="center"> DtmoneyV2 </h1>
 
 <p align="center">
-   An enhanced version of dtmoney, a financial manager app create with ReactJs
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -17,25 +13,40 @@
 <br>
 
 <p align="center">
-  <img alt="Dtmoney" src=".github/preview.png" width="100%">
+  <img alt="projeto do curso discover" src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologies
+## 🚀 Tecnologias
 
-This project was made with the following technologies:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- ReactJs & Typescript
+- React
+- TypeScript
 - Styled Components
-- Git e Github
 
-## 💻 Project
+## 🔥 Algumas features neste projeto
 
-Dtmoney is a financial manager app created with ReactJs on the Ignite Course by Rocketseat
+- React Hooks
+- React Context API
+- Integração com API externa com o uso da lib Axios
+- Estilização com Styled Components
+- Validação de formulários com react-hook-form e zod
 
-## 📝 License
+## ✨ Neste projeto você pode ver
 
-This project is under the MIT license
+- Sumário das transações do usuário separadas por entradas, saídas e total
+- Botão para criação de novas transações
+- Ao clicar no botão é aberto um modal com formulário para preencher as informações da transação e categoria
+- Depois de clicar uma transação, uma listagem de trasações com suas informações e categorias
+
+## 💻 Projeto
+
+- DtMoney é uma aplicação de gestão financeira para administrar suas transações criada com ReactJS
+
+## ✅ Esse projeto foi criado ao longo do curso Ignite ReactJS da plataforma Rocketseat
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
 
 ---
-
-Made with ♥ by João Gabriel
